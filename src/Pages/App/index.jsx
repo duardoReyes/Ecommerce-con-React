@@ -24,7 +24,8 @@ const AppRoutes = ()=>{
     {path: '/toys', element: <Home/>},
     {path: '/forniture', element: <Home/>},
     {path: '/electronics', element: <Home/>},
-    {path: '/other', element: <Home/>}
+    {path: '/other', element: <Home/>},
+    {path: '/Ecommerce-con-React/', element: <Home/>}
   ])
   return routes
 }

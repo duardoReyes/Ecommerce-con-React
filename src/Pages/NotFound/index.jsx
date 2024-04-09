@@ -4,7 +4,7 @@ function NotFound() {
 
     return (
         <Layout>
-          Not Found bebe
+          Not Found :(
         </Layout>
     )
   }
